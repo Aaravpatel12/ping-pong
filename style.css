@@ -1,0 +1,26 @@
+body{
+    background-size:cover ;
+}
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+#status,#start,#number_of_objects{
+    font-size: 23px;
+}
+canvas{
+    border:3px solid purple;
+    border-radius:20px;
+    margin-top:130px;
+    box-shadow:5px 5px 5px aqua;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: cadetblue;
+    color: chocolate;
+    bottom: 0;
+    line-height: 2;
+    width: 100%;
+    text-align:center;
+}
